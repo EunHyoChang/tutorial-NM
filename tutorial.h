@@ -107,4 +107,6 @@ extern Matrix	gradient(Matrix _x, Matrix _y);
 extern Matrix	gradientFunc(double func(const double x), Matrix xin);
 
 extern void gradient1D(double x[], double y[], double dydx[], int m);
+
+extern void God_is_good();
 #endif
